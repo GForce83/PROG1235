@@ -19,7 +19,7 @@ namespace PROG1235Test
         private void Form1_Load(object sender, EventArgs e)
         {
             MessageBox.Show("Changer la couleur arrière-plan à une couleur de votre choix.");
-            this.BackColor = Color.Yellow; // Changer cette couleur;
+            this.BackColor = Color.Grey; // Changer cette couleur;
         }
     }
 }
