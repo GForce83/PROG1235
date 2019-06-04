@@ -20,6 +20,7 @@ namespace PROG1235Test
         {
             MessageBox.Show("Changer la couleur arrière-plan à une couleur de votre choix.");
             this.BackColor = Color.Yellow; // Changer cette couleur;
+            this.BackColor = Color.Black; // Added by Michel
         }
     }
 }
